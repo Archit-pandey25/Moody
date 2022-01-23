@@ -33,7 +33,7 @@
 
 ## 📝 About the App
 
-**“StarBook”** is a digital diary, and a mood tracking app. The user will be able to rate his mood for each day and write a short story for him, like how his day was. Color is given to each mood, let’s say, green for a happy mood, red for angry and yellow for a sad mood. The statistics of users will be visualized in a methodical structure. For this the app will form a graph, calendar, each date box is colored with the color of users' aura lets say green for positive spirits. StarBook will cooperate with users to boost their positive energy and train healthy thinking, correspondingly moving towards calmer and patient personality. StarBook will use positive psychology and cognitive behavioral therapy for you to better understand yourself, overcoming stress, anxiety, and depressions. The app is all in all focused to give personalized experience to every individual user, increasing their productivity, objectivity, and emotional health.
+**“Moody”** is a one-stop app to track your daily mood and monitor your sleep. By collecting information about your mood every day, the app gives you statistics about your mood changes, when you have felt happy, or when you have felt sad. It also gives information about how long you have been sleeping, and gives suggestions to cheer you up and help you fall asleep.
 
 <img src="https://github.com/Archit-pandey25/Moody/blob/main/Moody_Canvas.png" width="100%">
 
