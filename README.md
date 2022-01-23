@@ -10,7 +10,7 @@
   </p>
 </p>
 
-[![GitHub contributors](https://img.shields.io/github/contributors/hashirshoaeb/star_book?color=ffcc66&style=for-the-badge)](https://github.com/Archit-pandey25/Moody/graphs/contributors)
+[![GitHub contributors](4)](https://github.com/Archit-pandey25/Moody/graphs/contributors)
 [![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/star_book?color=ffcc66&logo=StarBook&style=for-the-badge)](https://github.com/Archit-pandey25/Moody/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/star_book?style=for-the-badge)](https://github.com/Archit-pandey25/Moody/network)
 [![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/star_book?color=ffcc66&style=for-the-badge)](https://github.com/Archit-pandey25/Moody/issues)
