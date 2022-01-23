@@ -10,12 +10,11 @@
   </p>
 </p>
 
-[![GitHub contributors](https://img.shields.io/github/contributors/hashirshoaeb/star_book?color=ffcc66&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/graphs/contributors)
-[![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/star_book?color=ffcc66&logo=StarBook&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/star_book?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
-[![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/star_book?color=ffcc66&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/issues)
-[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/star_book?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
+[![GitHub contributors](https://img.shields.io/github/contributors/hashirshoaeb/star_book?color=ffcc66&style=for-the-badge)](https://github.com/Archit-pandey25/Moody/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/star_book?color=ffcc66&logo=StarBook&style=for-the-badge)](https://github.com/Archit-pandey25/Moody/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/star_book?style=for-the-badge)](https://github.com/Archit-pandey25/Moody/network)
+[![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/star_book?color=ffcc66&style=for-the-badge)](https://github.com/Archit-pandey25/Moody/issues)
+[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/star_book?style=for-the-badge)](https://github.com/Archit-pandey25/Moody/blob/master/LICENSE)
 [![Flutter Version](https://img.shields.io/static/v1?label=Flutter&message=2.5.1&color=ffcc66&style=for-the-badge)](https://flutter.dev/docs/development/tools/sdk/releases)
 
 
