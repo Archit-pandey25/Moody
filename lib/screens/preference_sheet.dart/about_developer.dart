@@ -22,7 +22,7 @@ class AboutDeveloper extends StatelessWidget {
               Container(
                 width: _textWidth,
                 child: Text(
-                  "I'm Hashir, the developer of this app. Feel free to contact me anytime. I love hearing from you",
+                  "This app was designed by the TEAM Wait for it",
                   style: Style.body(context),
                 ),
               ),
@@ -32,7 +32,7 @@ class AboutDeveloper extends StatelessWidget {
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(_imageWidth / 2),
                   image: DecorationImage(
-                    image: AssetImage("dev-profile.jpeg"),
+                    image: AssetImage("dev-profile.jpg"),
                   ),
                 ),
               ),
