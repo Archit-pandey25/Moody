@@ -25,8 +25,6 @@
 
 - [About the App](#-about-the-app)
 - [Getting Started](#getting-started)
-- [Roadmap](#roadmap)
-- [Contributing](#-contributing)
 - [Demo](#-demo)
 - [License](#license)
 
