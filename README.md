@@ -41,7 +41,7 @@ Prerequisite: https://flutter.dev/docs/get-started/install
 
 2. Clone the repo.
     ```sh
-     git clone https://github.com/<your-username>/star_book.git
+     git clone https://github.com/<your-username>/Moody.git
     ```
 3. Install packages.
     ```sh
